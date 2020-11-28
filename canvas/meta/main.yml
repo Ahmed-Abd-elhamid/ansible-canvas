@@ -1,0 +1,10 @@
+galaxy_info:
+  role_name: canvas
+  author: theJaxon
+  description: Setup Canvas LMS
+  license: GPL
+  min_ansible_version: 2.9
+  platforms:
+  - name: Ubuntu
+    versions:
+    - bionic
